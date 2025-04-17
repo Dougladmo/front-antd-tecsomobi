@@ -10,6 +10,8 @@
 ### email: admin@gmail.com
 ### senha: 1234
 
+## obs: como a api esta hospedada no render free o carregamento do login demora um pouco.
+
 ---
 
 ## 📌 Visão Geral
